@@ -12,4 +12,4 @@ learning, and the willingness to experiment with new ideas and technologies.
 
 ## Current open positions
 
-1. [Software Developer at Dartmouth](http://searchjobs.dartmouth.edu/postings/52587)
+There are no open positions at this time.
