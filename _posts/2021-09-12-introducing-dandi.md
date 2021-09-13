@@ -1,3 +1,9 @@
+---
+layout: post
+title: Introducing DANDI
+author: DANDI team
+---
+
 # DANDI: A data archive and collaboration space for neurophysiology
 
 DANDI is a [US BRAIN Initiative supported data archive](https://braininitiative.nih.gov/funded-awards/dandi-distributed-archives-neurophysiology-data-integration) for publishing and sharing neurophysiology data including intracellular and extracellular electrophysiology, optophysiology, and behavioral time-series, and images from immunostaining experiments.  For example, data from experimental techniques like patch clamps, silicon probes, and calcium imaging can be published on DANDI. So can data from lightsheet microscopy experiments when combined with associated MRI data.
