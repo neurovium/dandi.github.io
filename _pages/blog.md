@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 excerpt: "Blog."
-permalink: /blog/
+permalink: /blog
 sitemap: true
 ---
 <h1>Latest Posts</h1>
