@@ -6,6 +6,8 @@ author: DANDI team
 
 # Virtual hands-on workshop: Nov 1, 2021
 
+<a href="https://www.youtube.com/watch?v=fFnx-wzlLOs" target="_blank">Click to view a recording of the workshop</a>
+
 ## Registration is closed
 
 <!-- 
