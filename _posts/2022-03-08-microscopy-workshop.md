@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DANDI: Human ex-vivo microscopy workshop/hackathon
+title: Human ex-vivo microscopy workshop/hackathon
 author: DANDI team
 ---
 
