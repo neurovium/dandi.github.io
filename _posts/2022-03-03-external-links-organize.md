@@ -28,7 +28,7 @@ Internally the steps are as follows:
 
 ## Example re-organization:
 
-###Before:
+### Before:
 
 ```
 ├── nwbfiles
