@@ -15,6 +15,5 @@ The goal of this set of events is to introduce the BICCN human ex vivo MRI and
 microscopy datasets, involve the relevant communities to develop and explore 
 scientific ideas, create tooling around these and future datasets to make it 
 easy, and plan towards development of an online, digital, cellular atlas and 
-knowledge base of the human brain. Please feel free to comment on this community 
-doc.
-[Register using this link](https://docs.google.com/forms/d/e/1FAIpQLSeONjD73tXRZJg_tVo7t6-vd9KNLAeD4m3ItLSATp15UH-Gfw/viewform?usp=sf_link) 
+knowledge base of the human brain. Please feel free to comment on this [community 
+doc](https://docs.google.com/document/d/1jZPCXtYAjQJGjjhMCWl0wCiYwIssGqZfb7qcyiAZXio/edit).
