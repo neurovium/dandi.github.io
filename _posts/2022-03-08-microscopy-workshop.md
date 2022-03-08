@@ -4,7 +4,7 @@ title: Human ex-vivo microscopy workshop/hackathon
 author: DANDI team
 ---
 
-Online meeting
+## Online hackathon for ex-vivo microscopy
 
 Time: April 21 - 22, 2022
 
