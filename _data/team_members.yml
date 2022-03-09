@@ -18,15 +18,13 @@
   education3: A founder and lead of <a href="http://www.pymvpa.org/">PyMVPA</a>, <a href="http://neuro.debian.net/">NeuroDebian</a>, <a href="https://www.datalad.org">DataLad</a> and other projects
   education4: <a href="http://www.onerussian.com/resume/halchenko_vita.pdf">Full CV</a>
 
-- name: Ben Dichter
+- name: Benjamin Dichter
   photo: https://avatars3.githubusercontent.com/u/844306?s=460&v=4
-  info: Founder of Ben Dichter Consulting, LLC
-  email: ben.dichter@gmail.com
+  info: Founder of <a href="http://www.catalystneuro.com">CatalystNeuro</a>
+  email: ben.dichter@catalystneuro.com
   number_educ: 4
   education1: PhD Berkeley and UCSF Joint Program in Bioengineering
-  education2: Community Liaison of NWB and DANDI
-  education3: Lead Data Scientist of Ripple U19 (PI Soltesz) at Stanford University
-  education4: <a href="http://bendichter.com/assets/Dichter_cv.pdf">Full CV</a>
+  education2: <a href="http://bendichter.com/assets/Dichter_cv.pdf">Full CV</a>
 
 - name: Roni Choudhury
   photo: https://www.kitware.com/main/wp-content/uploads/2021/11/choudhury-768x768-1.jpeg
