@@ -5,7 +5,7 @@ When submitting large dandisets, it is important that users consider data compre
 reduce the size of the files. Making files smaller reduces the burden of the DANDI Archive, and make the files more 
 convenient to download. HDF5 has the ability to apply chunking and compression to datasets, which breaks large datasets
 into smaller chunks and applies lossless compression to each chunk. This approach reduces the volume of the HDF5 
-file, without changing the values of the dataset, and in some cases can even improve read or write speeds above naive
+file without changing the values of the dataset, and in some cases can even improve read or write speeds above naive
 uncompressed binary data. HDF5 ships with the compression algorithms GZIP and LZ4, and can support additional
 dynamically loaded filters. DANDI has requested that large datasets be compressed, as it reduces the main These 
 different algorithms and settings present myriad potential configurations, and a number of questions for NWB users 
