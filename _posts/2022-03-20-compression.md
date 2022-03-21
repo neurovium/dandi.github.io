@@ -19,20 +19,22 @@ What compression algorithms and settings are best for me?
 
 The answers to all of these questions depend on the specific use-cases, but the analysis below should help. 
 
-There are generally 3 metrics you might care about: file size, read speed, and write speed. You also might care 
-about how accessible your dataset is, i.e. whether the HDF5 library would be able to read your file out of the box or 
-require the installation of a dynamic filter. There are several parameters we can explore. Let's start with compression
+There are generally 3 metrics you might care about: file size, read speed, and write speed. You also might care how
+accessible your dataset is, i.e. whether the HDF5 library would be able to read your file out of the box or require
+the installation of a dynamic filter. There are several parameters we can explore. Let's start with compression
 algorithm (gzip, lz4, zstd, etc.) and level of algorithm. Increasing the level attempts to make the file smaller at the
 cost of additional compute time.
 
 ## Approach
 
-We ran a scan over several popular compression algorithms using the h5plugin library, which automatically compiles 
-and installs several algorithms and makes them available to h5py. If using Python, we highly recommend using this 
-package, as it vastly simplifies the installation process for a good variety of popular compression algorithms.For test 
-data, we are using ap data from a Neuropixel probe recorded using the SpikeGLX acquisition system from dataset 000053,
-which is high-pass voltage data prior to spike-sorting. We expect this to be a common use-case for NWB. Here, we are 
-relying on h5py to automatically determine chunk shape, and shuffle is off.
+We ran a scan over several popular compression algorithms using the
+[h5plugin](http://www.silx.org/doc/hdf5plugin/latest/) library, which automatically compiles 
+and installs several algorithms and makes them available to [h5py](https://docs.h5py.org/en/stable/index.html). If using
+Python, we highly recommend using this package, as it vastly simplifies the installation process for a good variety of
+popular compression algorithms.For test data, we are using ap data from a Neuropixel probe recorded using the SpikeGLX
+acquisition system from [dandiset 000053](https://dandiarchive.org/dandiset/000053/0.210819.0345), which is high-pass
+voltage data prior to spike-sorting. We expect this to be a common use-case for NWB. Here, we are relying on h5py to
+automatically determine chunk shape, and shuffle is off.
 
 ## Results
 
