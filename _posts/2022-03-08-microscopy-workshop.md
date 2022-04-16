@@ -12,20 +12,20 @@ scientific ideas, create tooling around these and future datasets to make it
 easy, and plan towards development of an online, digital, cellular atlas and 
 knowledge base of the human brain. 
 
-Date/Time: April 21 - 22, 2022. 9am - 6pm ET
+**Date/Time: April 21 - 22, 2022. 9am - 6pm ET**
 
-Online: Link will be sent to registered participants.
+**Online: Link will be sent to registered participants.**
 
 If you are interested in participating please fill in this form to be sent 
-announcements: https://forms.gle/xe9cJrZNcXX5aLddA
+announcements: [Register here](https://forms.gle/xe9cJrZNcXX5aLddA)
 
 ### Pre-meeting presentations
 
 [YouTube Playlist](https://www.youtube.com/channel/UCsLLBNhtcV-wL8cCZWveDCA/playlists)
 
 - The Dandisets
-    - [Dandiset 000026](https://www.youtube.com/watch?v=pUpLEjxn_cw): https://dandiarchive.org/dandiset/000026
-    - [Dandiset 000108](https://youtu.be/pUpLEjxn_cw?t=604): https://dandiarchive.org/dandiset/000108
+    - [Dandiset 000026](https://www.youtube.com/watch?v=pUpLEjxn_cw): [Link to dataset](https://dandiarchive.org/dandiset/000026)
+    - [Dandiset 000108](https://youtu.be/pUpLEjxn_cw?t=604): [Link to dataset](https://dandiarchive.org/dandiset/000108)
 - The Standards
     - [BIDS-Microscopy video](https://www.youtube.com/watch?v=T1KM2YNCFzI)
         - [BIDS Microscopy Specification](https://bids-specification.readthedocs.io/en/stable/04-modality-specific-files/10-microscopy.html)
@@ -34,7 +34,7 @@ announcements: https://forms.gle/xe9cJrZNcXX5aLddA
         - [NGFF Specification](https://ngff.openmicroscopy.org/latest/)
         - [Slides](https://downloads.openmicroscopy.org/presentations/2022/DANDI-BICCN-Workshop/)
 - The Tools
-    - [Neuroglancer video](https://www.youtube.com/watch?v=ITGC-PazGh8): https://github.com/google/neuroglancer
+    - [Neuroglancer video](https://www.youtube.com/watch?v=ITGC-PazGh8): [Link to Github repository](https://github.com/google/neuroglancer)
     - [NeuroTrAle video](https://youtu.be/ITGC-PazGh8?t=728)
 
 
@@ -42,7 +42,7 @@ announcements: https://forms.gle/xe9cJrZNcXX5aLddA
 
 The events will run 9 - 6 ET to accommodate multiple time zones. Participants are welcome to join at any time.
 
-Day 1: April 21, 2022 (9 - 6 ET)
+#### Day 1: April 21, 2022 (9 - 6 ET)
 
 -  DANDI+Microscopy Starter Kit: We will generate a set Starter Kit that makes it easy for users to navigate these and other Dandisets, including easier visualization of individual files.
 
@@ -52,7 +52,7 @@ Day 1: April 21, 2022 (9 - 6 ET)
 
 Unconference session (11.30 - 12.30 ET)
 
-Day 2: April 22, 2022 (9 - 6 ET)
+#### Day 2: April 22, 2022 (9 - 6 ET)
 
 - Visualization/Annotation: 
     - Develop a visualization of a single slab or a set of related chunks
