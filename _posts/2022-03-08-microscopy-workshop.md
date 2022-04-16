@@ -24,8 +24,8 @@ announcements: [Register here](https://forms.gle/xe9cJrZNcXX5aLddA)
 [YouTube Playlist](https://www.youtube.com/channel/UCsLLBNhtcV-wL8cCZWveDCA/playlists)
 
 - The Dandisets
-    - [Dandiset 000026](https://www.youtube.com/watch?v=pUpLEjxn_cw): [Link to dataset](https://dandiarchive.org/dandiset/000026)
-    - [Dandiset 000108](https://youtu.be/pUpLEjxn_cw?t=604): [Link to dataset](https://dandiarchive.org/dandiset/000108)
+    - [Dandiset 000026 video](https://www.youtube.com/watch?v=pUpLEjxn_cw): [Link to dataset](https://dandiarchive.org/dandiset/000026)
+    - [Dandiset 000108 video](https://youtu.be/pUpLEjxn_cw?t=604): [Link to dataset](https://dandiarchive.org/dandiset/000108)
 - The Standards
     - [BIDS-Microscopy video](https://www.youtube.com/watch?v=T1KM2YNCFzI)
         - [BIDS Microscopy Specification](https://bids-specification.readthedocs.io/en/stable/04-modality-specific-files/10-microscopy.html)
