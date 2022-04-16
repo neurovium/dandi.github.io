@@ -40,7 +40,7 @@ announcements: https://forms.gle/xe9cJrZNcXX5aLddA
 
 ### Agenda for the hackathon
 
-The events will run 9 - 6 ET to accommodate multiple time zones. People are welcome to join at any time.
+The events will run 9 - 6 ET to accommodate multiple time zones. Participants are welcome to join at any time.
 
 Day 1: April 21, 2022 (9 - 6 ET)
 
