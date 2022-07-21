@@ -50,3 +50,13 @@
   email: John.T.Wodder@dartmouth.edu
   number_educ: 1
   education1: Rochester Institute of Technology, Computational Mathematics
+
+- name: Horea-Ioan Ioanas
+  photo: https://resources.chymera.eu/photo/chr.jpg
+  info: Research Associate at PBS, Dartmouth College
+  email: chr@chymera.eu
+  number_educ: 4
+  education1: PhD in Neuroscience and Biomedical Engineering, ETH Zurich (CH)
+  education2: MSc in Molecular Biosciences and Neuroscience, Heidelberg University (DE)
+  education3: BSc in Molecular and Cellular Biology, Heidelberg University (DE)
+  education4: <a href="https://resources.chymera.eu/docs/cv-acad-m.pdf">CV</a>
