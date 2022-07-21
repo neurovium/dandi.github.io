@@ -43,3 +43,10 @@
   education1: PhD in Brain and Cognitive Sciences from MIT
   education2: BS in Mathematics from Heidelberg University, Germany
   education3: <a href="http://www.open-ephys.org/">Co-founder of OpenEphys.</a>
+
+- name: John Thorvald Wodder II
+  photo: https://centerforopenneuroscience.org/theme/img/team/jwodder.jpg
+  info: Software Developer at PBS, Dartmouth College
+  email: John.T.Wodder@dartmouth.edu
+  number_educ: 1
+  education1: Rochester Institute of Technology, Computational Mathematics
