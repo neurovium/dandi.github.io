@@ -12,21 +12,24 @@ As an exercise, let's assume you lose all the data in your lab. What would you
 want from the archive? Our hope is that your answer to this question, the
 necessary data and metadata that you need, is at least what we should be storing.
 
-Our goals for the archive, we think, are rather simple:
+DANDI provides:
 
-1. Optimize storage based on cost to produce and process.
-2. Enable reproducible practices and publications.
-3. Enable secondary uses of data outside the intent of the study.
-4. Reduce the need to contact data producers by enriching the data with rich m
-   etadata.
-5. If users have to come back to the raw data, for example, to apply different
-   processing strategies, etc., it should be feasible without going to the data
-   producer.
-6. The archive is not just an endpoint to dump data, it is intended as a living
+1. A cloud-based platform to store, process, and disseminate data. You can use 
+   DANDI to collaborate and publish datasets.
+2. Open access to data to enable secondary uses of data outside the intent 
+   of the study.
+3. Optimize data storage and access through partnerships, compression and 
+   accessibility technologies.
+4. Enables reproducible practices and publications through data standards such 
+   as NWB and BIDS, which provide extensive metadata.
+5. The platform is not just an endpoint to dump data, it is intended as a living
    repository that enables collaboration within and across labs, and for others,
    the entry point for research.
 
+For a better view of how DANDI might help you, please see these 
+<a href="https://docs.google.com/presentation/d/1hqw0vgNmelNnkPLuCSA1L5Rlu2rXeZEF6bsgc0y6Ve4/edit#slide=id.g113edc9c042_0_67" target="_blank"> onboarding slides</a>.
 
+<!--
 ### Proposed DANDI architecture
 
 <img src="assets/dandi-arch.png" width="100%">
@@ -35,7 +38,6 @@ Our goals for the archive, we think, are rather simple:
 
 <img src="assets/dandi-timeline.png" width="100%">
 
-<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
