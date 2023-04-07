@@ -60,3 +60,11 @@
   education2: MSc in Molecular Biosciences and Neuroscience, Heidelberg University (DE)
   education3: BSc in Molecular and Cellular Biology, Heidelberg University (DE)
   education4: <a href="https://resources.chymera.eu/docs/cv-acad-m.pdf">CV</a>
+  
+  - name: Cody Baker
+  photo: temp
+  info: Head of NWB Conversions at <a href="http://www.catalystneuro.com">CatalystNeuro</a>
+  email: cody.baker@catalystneuro.com
+  number_educ: 1
+  education1: PhD in Applied and Computational Mathematics and Statistics from the University of Notre Dame
+
