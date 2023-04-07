@@ -61,10 +61,18 @@
   education3: BSc in Molecular and Cellular Biology, Heidelberg University (DE)
   education4: <a href="https://resources.chymera.eu/docs/cv-acad-m.pdf">CV</a>
   
-  - name: Cody Baker
+- name: Cody Baker
   photo: https://avatars.githubusercontent.com/CodyCBakerPhD
   info: Head of NWB Conversions at <a href="http://www.catalystneuro.com">CatalystNeuro</a>
   email: cody.baker@catalystneuro.com
   number_educ: 1
   education1: PhD in Applied and Computational Mathematics and Statistics from the University of Notre Dame
 
+- name: Austin Macdonald
+  photo: https://centerforopenneuroscience.org/theme/img/team/asmacdo.jpg
+  info: Research Software Engineer, Dartmouth College
+  email: austin@dartmouth.edu
+  number_educ: 2
+  education1: MM in Music Performance, University of Illinois Urbana-Champaign
+  education2: BM in Music Education, University of North Carolina Greensboro
+ 
