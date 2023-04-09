@@ -60,7 +60,7 @@
   education2: MSc in Molecular Biosciences and Neuroscience, Heidelberg University (DE)
   education3: BSc in Molecular and Cellular Biology, Heidelberg University (DE)
   education4: <a href="https://resources.chymera.eu/docs/cv-acad-m.pdf">CV</a>
-  
+
 - name: Cody Baker
   photo: https://avatars.githubusercontent.com/CodyCBakerPhD
   info: Head of NWB Conversions at <a href="http://www.catalystneuro.com">CatalystNeuro</a>
@@ -75,4 +75,11 @@
   number_educ: 2
   education1: MM in Music Performance, University of Illinois Urbana-Champaign
   education2: BM in Music Education, University of North Carolina Greensboro
- 
+
+- name: Jacob Nesbitt
+  photo: https://avatars.githubusercontent.com/u/11370025?v=4
+  info: Research and Development Engineer at Kitware, Inc.
+  email: jacob.nesbitt@kitware.com
+  number_educ: 2
+  education1: BS in Computer Science, Clarkson University
+  education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
