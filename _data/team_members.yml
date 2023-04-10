@@ -35,15 +35,6 @@
   education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
   education3: <a href="https://www.kitware.com/roni-choudhury/">CV</a>
 
-- name: Jakob Voigts
-  photo: //images.squarespace-cdn.com/content/v1/5531223ae4b0555f239d4a7f/1484081649931-4VUF68B7VE9OGUVYPPHH/ke17ZwdGBToddI8pDm48kE9WHAr9rpekuaQ2ggjfd_p7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmD3GJgI7_jN764QbmlaUTk-0gncM3GWpB9ET-aHAZqzujM7-uc56XcE4Kvbsbn5Dx/image-asset.jpeg?format=500w
-  info: Postdoctoral Associate
-  email: jvoigts@mit.edu
-  number_educ: 3
-  education1: PhD in Brain and Cognitive Sciences from MIT
-  education2: BS in Mathematics from Heidelberg University, Germany
-  education3: <a href="http://www.open-ephys.org/">Co-founder of OpenEphys.</a>
-
 - name: John Thorvald Wodder II
   photo: https://centerforopenneuroscience.org/theme/img/team/jwodder.jpg
   info: Software Developer at PBS, Dartmouth College
@@ -82,6 +73,14 @@
   email: jacob.nesbitt@kitware.com
   number_educ: 2
   education1: BS in Computer Science, Clarkson University
+  education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
+
+- name: Michael VanDenburgh
+  photo: https://www.kitware.com/main/wp-content/uploads/2021/11/MikeVanDenburgh-768x768-1.jpg
+  info: Research and Development Engineer at Kitware, Inc.
+  email: michael.vandenburgh@kitware.com
+  number_educ: 2
+  education1: BS in Computer Science and Applied Mathematics, Stony Brook University
   education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
   
 - name: Dorota Jarecka
