@@ -83,3 +83,11 @@
   number_educ: 2
   education1: BS in Computer Science, Clarkson University
   education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
+
+- name: Michael VanDenburgh
+  photo: https://www.kitware.com/main/wp-content/uploads/2021/11/MikeVanDenburgh-768x768-1.jpg
+  info: Research and Development Engineer at Kitware, Inc.
+  email: michael.vandenburgh@kitware.com
+  number_educ: 2
+  education1: BS in Computer Science and Applied Mathematics, Stony Brook University
+  education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
