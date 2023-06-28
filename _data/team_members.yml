@@ -90,4 +90,22 @@
   number_educ: 2
   education1: PhD Atmospheric Physics, University of Warsaw
   education2: MSc Theoretical Physics, University of Warsaw
-  
+
+# TODO: add current Kitware folks
+
+# Emeritus members
+- name: Michael Grauer
+  status: emeritus
+  photo: https://media.licdn.com/dms/image/C5603AQGUMiyWch18CQ/profile-displayphoto-shrink_800_800/0/1626721811203?e=1693440000&v=beta&t=3kPqftSLKIm5I1ZNN3CWSNzRdWlkBg6Ajtl_tj4Bw0M
+  info: ?
+  email: ?
+  number_educ: ?
+  education1: ?
+
+#- name: Daniel Chiquito
+#  status: emeritus
+#  photo: 
+#  info: 
+#  email:
+#  number_educ: ?
+#  education1: ?

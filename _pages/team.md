@@ -17,8 +17,32 @@ permalink: /team
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<style>
+.emeritus-container {
+    position: relative;
+    display: inline-block;
+}
+
+.emeritus-container::after {
+    content: "Off-duty hero";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+    background: rgba(0,0,0,0.5);
+}
+</style>
+
+<div class="col-sm-6 clearfix {% if member.status == emeritus %} emeritus-container {% endif %}">
   <img src="{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
