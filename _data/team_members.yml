@@ -1,5 +1,5 @@
 - name: Satrajit S Ghosh
-  photo: //satra.cogitatum.org/assets/satra.png
+  photo: /assets/team/Satrajit_S_Ghosh.png
   info: Principal Research Scientist at MIT; Assistant Professor at Harvard Medical School
   email: satra@mit.edu
   number_educ: 4
@@ -9,7 +9,7 @@
   education4: <a href="http://satra.cogitatum.org/assets/CV_Latest.pdf">Full CV</a>
 
 - name: Yaroslav O Halchenko
-  photo: http://centerforopenneuroscience.org/theme/img/team/yarik.jpg
+  photo: /assets/team/Yaroslav_O_Halchenko.jpg
   info: Research Associate Professor at PBS, Dartmouth College
   email: yoh@onerussian.com
   number_educ: 4
@@ -19,7 +19,7 @@
   education4: <a href="http://www.onerussian.com/resume/halchenko_vita.pdf">Full CV</a>
 
 - name: Benjamin Dichter
-  photo: https://avatars3.githubusercontent.com/u/844306?s=460&v=4
+  photo: /assets/team/Benjamin_Dichter.jpg
   info: Founder of <a href="http://www.catalystneuro.com">CatalystNeuro</a>
   email: ben.dichter@catalystneuro.com
   number_educ: 2
@@ -27,7 +27,7 @@
   education2: <a href="http://bendichter.com/assets/Dichter_cv.pdf">Full CV</a>
 
 - name: Roni Choudhury
-  photo: https://www.kitware.com/main/wp-content/uploads/2021/11/choudhury-768x768-1.jpeg
+  photo: /assets/team/Roni_Choudhury.jpeg
   info: Technical Leader at Kitware, Inc.
   email: roni.choudhury@kitware.com
   number_educ: 3
@@ -36,14 +36,14 @@
   education3: <a href="https://www.kitware.com/roni-choudhury/">CV</a>
 
 - name: John Thorvald Wodder II
-  photo: https://centerforopenneuroscience.org/theme/img/team/jwodder.jpg
+  photo: /assets/team/John_Thorvald_Wodder_II.jpg
   info: Software Developer at PBS, Dartmouth College
   email: John.T.Wodder@dartmouth.edu
   number_educ: 1
   education1: Rochester Institute of Technology, Computational Mathematics
 
 - name: Horea-Ioan Ioanas
-  photo: https://resources.chymera.eu/photo/chr.jpg
+  photo: /assets/team/Horea-Ioan_Ioanas.jpg
   info: Research Associate at PBS, Dartmouth College
   email: chr@chymera.eu
   number_educ: 4
@@ -53,14 +53,14 @@
   education4: <a href="https://resources.chymera.eu/docs/cv-acad-m.pdf">CV</a>
 
 - name: Cody Baker
-  photo: https://avatars.githubusercontent.com/CodyCBakerPhD
+  photo: /assets/team/Cody_Baker.jpg
   info: Head of NWB Conversions at <a href="http://www.catalystneuro.com">CatalystNeuro</a>
   email: cody.baker@catalystneuro.com
   number_educ: 1
   education1: PhD in Applied and Computational Mathematics and Statistics from the University of Notre Dame
 
 - name: Austin Macdonald
-  photo: https://centerforopenneuroscience.org/theme/img/team/asmacdo.jpg
+  photo: /assets/team/Austin_Macdonald.jpg
   info: Research Software Engineer, Dartmouth College
   email: austin@dartmouth.edu
   number_educ: 2
@@ -68,7 +68,7 @@
   education2: BM in Music Education, University of North Carolina Greensboro
 
 - name: Jacob Nesbitt
-  photo: https://avatars.githubusercontent.com/u/11370025?v=4
+  photo: /assets/team/Jacob_Nesbitt.jpg
   info: Research and Development Engineer at Kitware, Inc.
   email: jacob.nesbitt@kitware.com
   number_educ: 2
@@ -76,18 +76,17 @@
   education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
 
 - name: Michael VanDenburgh
-  photo: https://www.kitware.com/main/wp-content/uploads/2021/11/MikeVanDenburgh-768x768-1.jpg
+  photo: /assets/team/Michael_VanDenburgh.jpg
   info: Research and Development Engineer at Kitware, Inc.
   email: michael.vandenburgh@kitware.com
   number_educ: 2
   education1: BS in Computer Science and Applied Mathematics, Stony Brook University
   education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
-  
+
 - name: Dorota Jarecka
-  photo: //gablab.mit.edu/wp-content/uploads/bfi_thumb/dorata-jarecka-nm70tl9ny3k30jco6p80294a9zcc8mf7rx0ep2q8m0.jpg
+  photo: /assets/team/Dorota_Jarecka.jpg
   info: Research Scientist, MIT
   email: djarecka@mit.edu
   number_educ: 2
   education1: PhD Atmospheric Physics, University of Warsaw
   education2: MSc Theoretical Physics, University of Warsaw
-  
