@@ -1,12 +1,13 @@
 - name: Satrajit S Ghosh
   photo: ../assets/team/Satrajit_S_Ghosh.png
-  info: Principal Research Scientist at MIT; Assistant Professor at Harvard Medical School
+  info: >
+    Director of Open Data in Neuroscience Initiative and Principal Research Scientist at MIT; Assistant 
+    Professor of Otolaryngology at Harvard Medical School
   email: satra@mit.edu
-  number_educ: 4
+  number_educ: 3
   education1: PhD Cognitive and Neural Systems, Boston University
-  education2: Director of Data Models and Integration of <a href="https://repronim.org/">ReproNim</a>
-  education3: <a href="https://neurocommons.biomedcentral.com/">Co-Editor-In-Chief BMC NeuroCommons</a>
-  education4: <a href="http://satra.cogitatum.org/assets/CV_Latest.pdf">Full CV</a>
+  education2: BS(Honors) Information Systems and Computer Science, National University of Singapore
+  education3: <a href="http://satra.cogitatum.org/assets/CV_Latest.pdf">Full CV</a>
 
 - name: Yaroslav O Halchenko
   photo: ../assets/team/Yaroslav_O_Halchenko.jpg
