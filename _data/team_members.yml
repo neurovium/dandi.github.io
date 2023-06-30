@@ -1,5 +1,5 @@
 - name: Satrajit S Ghosh
-  photo: /assets/team/Satrajit_S_Ghosh.png
+  photo: ../assets/team/Satrajit_S_Ghosh.png
   info: Principal Research Scientist at MIT; Assistant Professor at Harvard Medical School
   email: satra@mit.edu
   number_educ: 4
@@ -9,7 +9,7 @@
   education4: <a href="http://satra.cogitatum.org/assets/CV_Latest.pdf">Full CV</a>
 
 - name: Yaroslav O Halchenko
-  photo: /assets/team/Yaroslav_O_Halchenko.jpg
+  photo: ../assets/team/Yaroslav_O_Halchenko.jpg
   info: Research Associate Professor at PBS, Dartmouth College
   email: yoh@onerussian.com
   number_educ: 4
@@ -19,7 +19,7 @@
   education4: <a href="http://www.onerussian.com/resume/halchenko_vita.pdf">Full CV</a>
 
 - name: Benjamin Dichter
-  photo: /assets/team/Benjamin_Dichter.jpg
+  photo: ../assets/team/Benjamin_Dichter.jpg
   info: Founder of <a href="http://www.catalystneuro.com">CatalystNeuro</a>
   email: ben.dichter@catalystneuro.com
   number_educ: 2
@@ -27,7 +27,7 @@
   education2: <a href="http://bendichter.com/assets/Dichter_cv.pdf">Full CV</a>
 
 - name: Roni Choudhury
-  photo: /assets/team/Roni_Choudhury.jpeg
+  photo: ../assets/team/Roni_Choudhury.jpeg
   info: Technical Leader at Kitware, Inc.
   email: roni.choudhury@kitware.com
   number_educ: 3
@@ -36,14 +36,14 @@
   education3: <a href="https://www.kitware.com/roni-choudhury/">CV</a>
 
 - name: John Thorvald Wodder II
-  photo: /assets/team/John_Thorvald_Wodder_II.jpg
+  photo: ../assets/team/John_Thorvald_Wodder_II.jpg
   info: Software Developer at PBS, Dartmouth College
   email: John.T.Wodder@dartmouth.edu
   number_educ: 1
   education1: Rochester Institute of Technology, Computational Mathematics
 
 - name: Horea-Ioan Ioanas
-  photo: /assets/team/Horea-Ioan_Ioanas.jpg
+  photo: ../assets/team/Horea-Ioan_Ioanas.jpg
   info: Research Associate at PBS, Dartmouth College
   email: chr@chymera.eu
   number_educ: 4
@@ -53,14 +53,14 @@
   education4: <a href="https://resources.chymera.eu/docs/cv-acad-m.pdf">CV</a>
 
 - name: Cody Baker
-  photo: /assets/team/Cody_Baker.jpg
+  photo: ../assets/team/Cody_Baker.jpg
   info: Head of NWB Conversions at <a href="http://www.catalystneuro.com">CatalystNeuro</a>
   email: cody.baker@catalystneuro.com
   number_educ: 1
   education1: PhD in Applied and Computational Mathematics and Statistics from the University of Notre Dame
 
 - name: Austin Macdonald
-  photo: /assets/team/Austin_Macdonald.jpg
+  photo: ../assets/team/Austin_Macdonald.jpg
   info: Research Software Engineer, Dartmouth College
   email: austin@dartmouth.edu
   number_educ: 2
@@ -68,7 +68,7 @@
   education2: BM in Music Education, University of North Carolina Greensboro
 
 - name: Jacob Nesbitt
-  photo: /assets/team/Jacob_Nesbitt.jpg
+  photo: ../assets/team/Jacob_Nesbitt.jpg
   info: Research and Development Engineer at Kitware, Inc.
   email: jacob.nesbitt@kitware.com
   number_educ: 2
@@ -76,7 +76,7 @@
   education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
 
 - name: Michael VanDenburgh
-  photo: /assets/team/Michael_VanDenburgh.jpg
+  photo: ../assets/team/Michael_VanDenburgh.jpg
   info: Research and Development Engineer at Kitware, Inc.
   email: michael.vandenburgh@kitware.com
   number_educ: 2
@@ -84,7 +84,7 @@
   education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
 
 - name: Dorota Jarecka
-  photo: /assets/team/Dorota_Jarecka.jpg
+  photo: ../assets/team/Dorota_Jarecka.jpg
   info: Research Scientist, MIT
   email: djarecka@mit.edu
   number_educ: 2
