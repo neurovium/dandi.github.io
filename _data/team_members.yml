@@ -91,3 +91,11 @@
   number_educ: 2
   education1: PhD Atmospheric Physics, University of Warsaw
   education2: MSc Theoretical Physics, University of Warsaw
+
+  - name: Nima Dehghani
+  photo: ../assets/team/Nima_Dehghani.jpg
+  info: Research Scientist, MIT
+  email: nima.dehghani@mit.edu
+  number_educ: 2
+  education1: PhD Computational Neuroscience (Complex Systems), Pierre et Marie Curie (Sorbonne Université)
+  education2: MD, Iran Univ of Med Sci
